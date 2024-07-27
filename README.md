@@ -1,1 +1,1 @@
-
+This repository is intended to hold Python projects for my portfolio. I plan on showing these projects to future recruiters to demonstrate my proficiency in the Python programming language. I will do 8 projects. 4 will showcase my Python skills in general, and the other 4 will showcase my machine learning and AI skills. 
